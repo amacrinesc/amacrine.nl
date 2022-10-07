@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Amacrine Scientific Consulting
 
 
