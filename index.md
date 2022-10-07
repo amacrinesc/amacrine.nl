@@ -6,8 +6,11 @@ layout: default
 
 (Under construction)
 
+Dr. I. M. Bakker.
+
 Contact us via [email](mailto:info@amacrine.nl).
 
+LinkedIn 
 
 ## Expertise
 
