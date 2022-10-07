@@ -6,7 +6,7 @@ layout: default
 
 (Under construction)
 
-Dr. I. M. Bakker.
+Dr. Geor Bakker.
 
 Contact us via [email](mailto:info@amacrine.nl).
 
