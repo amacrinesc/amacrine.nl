@@ -18,10 +18,4 @@ LinkedIn
 - MRI Image Analysis
 - Clinical Trial Design
 
-## Clients
-
-### Sosei Heptares
-
-Description
-
 
